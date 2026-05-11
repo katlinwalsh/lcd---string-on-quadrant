@@ -1,7 +1,7 @@
+fwdSensors.initializeLcd()
 /**
  * Modify & Create: If you press a button, move the message to a new quadrant.
  */
-fwdSensors.initializeLcd()
 /**
  * On quadrant 1, display the text: "Quad 1", repeat for quadrants 2, 3, 4.
  * 
